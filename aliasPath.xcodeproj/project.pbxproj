@@ -25,6 +25,7 @@
 
 /* Begin PBXFileReference section */
 		312731F6178A1F6800849142 /* aliasPath.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = aliasPath.m; sourceTree = "<group>"; };
+		312731F8178A24E000849142 /* readme.rst */ = {isa = PBXFileReference; lastKnownFileType = text; path = readme.rst; sourceTree = "<group>"; };
 		CE01B4B71789E10100A48802 /* aliasPath */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = aliasPath; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE01B4C31789E12200A48802 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
@@ -44,6 +45,7 @@
 		CE01B4AE1789E10100A48802 = {
 			isa = PBXGroup;
 			children = (
+				312731F8178A24E000849142 /* readme.rst */,
 				312731F6178A1F6800849142 /* aliasPath.m */,
 				CE01B4B81789E10100A48802 /* Products */,
 				CE01B4C31789E12200A48802 /* Foundation.framework */,
