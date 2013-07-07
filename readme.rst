@@ -12,3 +12,7 @@ file.  It outputs the same information displayed by the Finder in the
 It is mainly useful for repairing broken aliases, because it will work
 even if the original can't be found.  This effect can't be achieved with
 AppleScript.
+
+You can build and install a copy of this tool in /usr/local/bin with just::
+
+    xcodebuild install
