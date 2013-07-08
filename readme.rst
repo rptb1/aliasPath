@@ -16,3 +16,7 @@ AppleScript.
 You can build and install a copy of this tool in /usr/local/bin with just::
 
     xcodebuild install
+
+Open source under the `BSD 2-Clause License`_.  See license.rst_.
+
+.. _`BSD 2-Clause License`: http://opensource.org/licenses/BSD-2-Clause
