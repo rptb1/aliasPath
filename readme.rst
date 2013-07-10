@@ -15,7 +15,7 @@ AppleScript.
 
 You can build and install a copy of this tool in /usr/local/bin with just::
 
-    xcodebuild install
+    sudo xcodebuild install
 
 Open source under the `BSD 2-Clause License`_.
 
